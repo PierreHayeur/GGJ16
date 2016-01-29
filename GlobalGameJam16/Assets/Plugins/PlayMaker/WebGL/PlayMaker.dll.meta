@@ -18,6 +18,10 @@ PluginImporter:
     WebGL:
       enabled: 1
       settings: {}
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
   userData: 
   assetBundleName: 
   assetBundleVariant: 
